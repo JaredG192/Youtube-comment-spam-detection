@@ -69,8 +69,7 @@ The dataset includes:
 - `COMMENT_ID`, `AUTHOR`, `CONTENT`, `VIDEO_NAME`, and `CLASS` columns  
 - 1 = spam, 0 = not spam (mapped to labels during processing)
 
-📥 Due to GitHub file size limits, the dataset is not included in this repository.  
-Full dataset is on Kaggle using this link: [Youtube Spam Comments Dataset](https://www.kaggle.com/code/ahmedhassansaqr/youtube-comments-spam-detection-f1-score-96)
+📥Full dataset is on Kaggle using this link: [Youtube Spam Comments Dataset](https://www.kaggle.com/code/ahmedhassansaqr/youtube-comments-spam-detection-f1-score-96)
 
 ---
 
