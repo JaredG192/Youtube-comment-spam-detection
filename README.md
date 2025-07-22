@@ -80,7 +80,7 @@ Full dataset is on Kaggle using this link: [Youtube Spam Comments Dataset](https
 
 
 California State University, San Bernardino 
-Bachelor in Science, Computer Science
+Bachelor in Science, Computer Science,
 Minor in Data Science  
 
 ---
